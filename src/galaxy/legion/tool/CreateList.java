@@ -4,8 +4,8 @@ import java.util.ArrayList;
 /**
  * Write a description of class CreateList here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Mads) 
+ * @version (v0,1 01-11-13)
  */
 public class CreateList
 {
