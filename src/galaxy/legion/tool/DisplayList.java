@@ -1,15 +1,21 @@
 package galaxy.legion.tool;
-
-import java.util.ArrayList;
-
+/**
+ * 
+ * @author Mads
+ */
 public class DisplayList
 {
-
+        /**
+         * 
+         */
 	public DisplayList()
 	{
 		
 	}
         
+        /**
+         * 
+         */
         public void show()
         {
             for (int i = 0; i < sorted.size(); i++)
